@@ -21,7 +21,7 @@ body {
     font-size: 20px;
     display: inline-block;
     color: white;
-    box-shadow: 0 0 10px #4d4b57;
+    box-shadow: 0 0 5px #4d4b57;
     transition: 0.3s;
     font-size: 15px;
     width: 3cm;
@@ -30,8 +30,8 @@ body {
 }
 
 .btn:hover {
-    box-shadow: 0 0 20px #4d4b57;
+    box-shadow: 0 0 10px #4d4b57;
     width: 3.2cm;
     height: 1.2cm;
-    font-size: 17px;
+    font-size: 16px;
 }
