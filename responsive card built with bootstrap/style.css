@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(95, 95, 222) !important;
+
+}
+.card {
+    width: 10cm !important;
+    height: 10cm !important;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    background-color: rgb(255, 255, 255) !important;
+    position: relative;
+    top: 25vh
+}
+
+#email {
+    position: relative;
+    top: 3cm;
+    left: 1cm;
+    width: 7.3cm;
+}
+
+#password {
+    position: relative;
+    top: 4cm;
+    left: 1cm;
+    width: 7.3cm;
+}
+
+#sign_in {
+    position: relative;
+    top: 6.7cm;
+    right: 3.5cm;
+}
